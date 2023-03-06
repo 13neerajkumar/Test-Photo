@@ -1,0 +1,27 @@
+.boxes{
+    border: 2px solid #000;
+    margin: 5px ;
+    padding: 5px;
+    height: 100px;
+    width: 195px;
+}
+.btn{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+}
+.poin{
+    cursor: pointer !important;
+}
+.main{
+    width: 80vw;
+    height: 60vh;
+    margin: 15px;
+    margin-top: 80px;
+    border: 2px solid #000;
+}
